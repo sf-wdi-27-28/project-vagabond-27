@@ -84,7 +84,7 @@ Each group has an assigned instructor or DIR, who will act as your client as wel
 
 ## Presentation
 
-Each group will present their project on **Monday, May 9th** starting at **9:17am** for 10 minutes.
+Each group will present their project on **Tuesday, May 10th** starting at **9:17am** for 10 minutes.
 
 Each member of your group should speak during your presentation and mention which parts of the project they worked on.
 
