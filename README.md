@@ -6,7 +6,7 @@ We have been commissioned to build a travel community, code-named **Project Vaga
 
 ## Client Contract
 
-The client has provided basic wireframes and user stories. In some cases, these requirements may be vague or incomplete.
+The client has provided basic wireframes and user stories. In some cases, these requirements may be vague or incomplete.  
 
 * [Wireframes](./wireframes.png)
 * [User Stories](./user-stories.md)
@@ -52,35 +52,35 @@ Use the **[git collaborator scenario](./git-collaboration-workflow.md)</a>, feat
 
 Each group has an assigned instructor or DIR, who will act as your client as well as give technical support during instructor-group meetings.
 
-#### Group \#1 - COMING SOON
-*  
-*  
-*  
-*   
+#### Group \#1 
+*  Bryan  
+*  Eric  
+*  Herman  
+*  Justin  
 
-#### Group \#2 - COMING SOON
-*    
-*  
-*  
-*  
+#### Group \#2 
+*  Arthur  
+*  Joanne  
+*  Paul  
+*  Sarah  
 
-#### Group \#3 - COMING SOON
-*  
-*  
-*  
-*   
+#### Group \#3 
+*  Andrea  
+*  Anna  
+*  John   
+*  Nathan  
 
-#### Group \#4 - COMING SOON
-*  
-*  
-*  
-*   
+#### Group \#4 
+*  Adam  
+*  Ilter  
+*  Marcelo  
+*  Phill  
 
-#### Group \#5 - COMING SOON
-*  
-*  
-*  
-*   
+#### Group \#5 
+*  Ayush  
+*  Jackie  
+*  Jonathan  
+*  Rene  
 
 ## Presentation
 
